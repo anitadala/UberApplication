@@ -1,3 +1,5 @@
+Description 
+UberApplication is a monolithic backend built with Java Spring Boot. It includes modules for users, drivers, rides, fare calculation, payments, and admin. All features are deployed as a single unit, making it ideal for learning layered architecture, backend flows, and monolith vs microservices trade-offs.
 🚖 UberApplication
 
 UberApplication is a monolithic backend project built with Java + Spring Boot, designed to simulate the core functionalities of a ride-hailing platform. All modules are tightly integrated into a single deployable unit, making it easier to understand application flow in a traditional architecture.
